@@ -14,9 +14,9 @@ This question was born from a personal frustration: Living near the Red Line but
 
 ## Data Sources
 
-- **Light Rail Stations:** [Israel Ministry of Transport — LRT Stations (Existing & Planned)](https://data.gov.il/datasets/ministry_of_transport/lrt_stat)
+- **Light Rail Stations:** [Israel Ministry of Transport - LRT Stations (Existing & Planned)](https://data.gov.il/datasets/ministry_of_transport/lrt_stat)
   - Existing and planned light rail stations across Israel
-  - Coordinates in ITM (Israeli Transverse Mercator) format — converted to WGS84 (standard lat/long) for analysis
+  - Coordinates in ITM (Israeli Transverse Mercator) format - converted to WGS84 (standard lat/long) for analysis
 
 - **Transit Stations Reference File:** [Israel Ministry of Transport — Bus, LRT & Rail Stations](https://data.gov.il/datasets/ministry_of_transport/bus_stops)
   - Spatial reference file containing bus stops, light rail, and Israel Railways stations
@@ -41,7 +41,7 @@ After verifying the data, ITM coordinates were converted to WGS84 using the `pyp
 ## Tools Used
 
 - Python, pandas, matplotlib — data loading, cleaning, and visualization
-- `pyproj` — coordinate system conversion (ITM → WGS84)
+- `pyproj` - coordinate system conversion (ITM → WGS84)
 - `geopy` — reverse geocoding for station verification and distance calculation
 - Jupyter Notebook
 
@@ -90,3 +90,10 @@ israel-transit-analysis/
 ## About
 
 This project was built as part of a data analytics portfolio to demonstrate skills in geospatial data analysis, coordinate system conversion, distance calculations, and business-oriented storytelling with real-world public transit data.
+
+## Tools Used
+Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+
+## Author
+Sadie Greenberg | [LinkedIn](https://www.linkedin.com/in/sgbrg) | 
+[Email](mailto:sadieagberg@gmail.com)
