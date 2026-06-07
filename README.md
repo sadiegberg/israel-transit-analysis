@@ -72,7 +72,7 @@ Only 3 out of 10 existing light rail stations are within a 10-minute walk (800 m
 
 ## Business / Planning Implication
 
-These findings reinforce the urgency of Tel Aviv's planned light rail expansion. The current network leaves large portions of the city with poor intercity connectivity — a gap that disproportionately affects residents in northern Tel Aviv neighborhoods who must travel long distances just to access intercity rail.
+These findings reinforce the urgency of Tel Aviv's planned light rail expansion. The current network leaves large portions of the city with poor intercity connectivity - a gap that disproportionately affects residents in northern Tel Aviv neighborhoods who must travel long distances just to access intercity rail.
 
 ---
 
@@ -84,16 +84,6 @@ israel-transit-analysis/
 ├── README.md                        ← You are here
 └── analysis.ipynb                   ← Full Jupyter Notebook with code and findings
 ```
-
----
-
-## How to Run
-
-1. Clone this repository
-2. Download both datasets from the links above (data.gov.il)
-3. Place the CSV files in the same folder as the notebook
-4. Install required libraries: `pip install pandas matplotlib pyproj geopy`
-5. Open `analysis.ipynb` in Jupyter Notebook and run all cells
 
 ---
 
