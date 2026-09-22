@@ -58,7 +58,7 @@ Only 3 out of 10 existing light rail stations are within a 10-minute walk (800 m
 | Arlozorov | 279 m ✓ |
 | Shaul HaMelech | 452 m ✓ |
 | Yehudit | 568 m ✓ |
-| Aba Hillel | 522 m ⚠ |
+| Aba Hillel | 522 m ! |
 | Karlibach | 1,249 m x |
 | Allenby | 1,353 m x |
 | Bialik | 1,504 m x |
@@ -66,7 +66,7 @@ Only 3 out of 10 existing light rail stations are within a 10-minute walk (800 m
 | Aharonovitch | 3,460 m x |
 | Gesher Em HaMoshavot | 3,968 m x |
 
-✓ Within 10-minute walk | ⚠ Borderline | x Significant gap
+✓ Within 10-minute walk | ! Borderline | x Significant gap
 
 ---
 
